@@ -1,2 +1,2 @@
 # mysite_m
-samplfile
+samplefile
